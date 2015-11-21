@@ -3,3 +3,5 @@ language: haskell
 notifications:
   email: false
 
+script:
+  - cabal configure && cabal build
