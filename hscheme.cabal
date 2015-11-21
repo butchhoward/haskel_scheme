@@ -19,6 +19,6 @@ executable hscheme
   main-is:             Main.hs
   -- other-modules:       
   -- other-extensions:    
-  build-depends:       parsec, base >=4.8 && <4.9
+  build-depends:       parsec, base
   -- hs-source-dirs:      
   default-language:    Haskell2010

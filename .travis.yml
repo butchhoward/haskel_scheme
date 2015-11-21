@@ -5,3 +5,5 @@ notifications:
 
 script:
   - cabal configure && cabal build
+
+ghc: 7.8
